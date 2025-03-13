@@ -15,25 +15,36 @@ csl: apa-5th-edition.csl
 
 ## Kayla Sutton's Proposals
 Proposal #1: Ozone pollution associated with Fort Collins policies
-Justification: 
-Research objective:
-Proposed methods: 
-Expected outcomes: 
+
+Justification: Fort Collins has among the worst ozone levels in the country. High ozone levels are associated with increased asthma rates and respiratory diseases, which can equate to more ER visits [@chang2006ozone]. Ground level ozone is caused by a reaction between volatile organic compounds (VOCs), nitrogen oxides (NOx), and heat. The main cause of NOx is vehicle emissions [@lowi1990method]. Fort Collins has implemented a number of policies throughout the years aimed at reducing vehicle emissions, mainly by adding protections for alternative transportation (walking, biking, public transport, etc.). 
+
+Research objective: This study will examine the ozone levels following these policies and determine the most successful policy measure.
+
+Proposed methods: To examine ozone pollution levels in relation to policy enactments, we propose a mixed-methods approach combining quantitative data analysis with policy review. Ambient ozone concentration data will be collected from
+established air quality monitoring stations over a defined time period, both before and after the implementation of specific policies (e.g., emission regulations, vehicle standards). Time-series analysis will be used to identify trends and changes in ozone levels, controlling for meteorological variables such as temperature and wind patterns. Additionally, satellite remote sensing data will complement ground-based measurements to assess regional variations. A comparative analysis will be conducted across multiple regions with varying policy frameworks to evaluate the effectiveness of different strategies. Policy documents and enforcement reports will be reviewed to understand the scope, stringency, and timeline of enactments. Finally, statistical models, such as difference-in-differences (DiD), will be applied to assess the causal relationship between policy interventions and observed changes in ozone pollution levels.
+
+Expected outcomes: The policy that reduced vehicle emissions the most was the most successful at reducing ozone levels
 
 Proposal #2: Correlation between ozone pollution and elevation in Fort Collins
-Justification: 
-Research objective:
-Proposed methods: 
-Expected outcomes: 
+
+Justification: Fort Collins has among the worst ozone levels in the country. High ozone levels are associated with increased asthma rates and respiratory diseases, which can equate to more ER visits. Ground level ozone is caused by a reaction between volatile organic compounds (VOCs), nitrogen oxides (NOx), and heat [@brodin2010seasonal]. Since heat (temperature) is directly related to elevation [@aneja1992characterization], I want to determine how much of a correlation there is between change in elevation and ground-level ozone levels.
+
+Research objective: To determine the correlation between change in elevation and ground-level ozone pollution.
+
+Proposed methods: To determine the correlation between ozone pollution and changes in elevation, we propose a methodological approach that integrates spatial analysis with statistical modeling. Ozone concentration data will be collected from a network of air quality monitoring stations located at varying elevations, supplemented by satellite remote sensing to ensure broader geographic coverage. Elevation data for each monitoring site will be obtained from digital elevation models (DEMs). A cross-sectional analysis will be conducted to compare ozone levels at different elevations, controlling for confounding factors such as temperature, vegetation cover, and proximity to emission sources.
+Correlation coefficients will be calculated to quantify the strength and direction of the relationship between elevation and ozone concentration. Additionally, multivariate linear regression will be used to isolate the effect of elevation on
+ozone levels while accounting for other environmental variables. Geographic Information Systems (GIS) will be employed to visualize spatial trends and highlight areas with notable elevation-related variations in ozone pollution
+
+Expected outcomes: Since temperatures are lower at higher elevations, there is a negative correlation between change in elevation and ozone levels.
 
 ## Miranda Chin's Proposals
-Proposal #1: Trends of invasive vegetation species populations within Colorado
-Justification: 
-Research objective:
+Proposal #1: Population trends of invasive aquatic species populations within Colorado
+Justification: Aquatic invasive species, such as the Red Shiner and Common Carp, act as a threat to the health and population size of native species [@stone2018aquatic]. As invasive species consume resources and take up niches, it can also result in widespread ecosystem changes as species are outcompeted; invasive species can also affect human processes as well, such as economic or cultural spheres [@rahel2008managing]. Even though invasive species have existed in Colorado for hundreds of years, due to increases in climate change they have become more prevalent than ever. Climate change results in narrowing possible habitats for native species, as can be seen in the temperature increases in rivers and lakes that create uninhabitable areas for wildlife [@rahel2008managing0. However, these issues of resource management are exacerbated by competition with invasive species as these species are often better equipped to survive in these habitats than native species; this may result in extinction or further migration for many species [@stone2018aquatic]. Keeping track of invasive species populations is critical to making managment plans and addressing the changing landscape in Colorado.
+Research objective: The objective is to track the population and growth of the Common Carp species in Colorado over the past decade in order to determine the rate at which the species is increasing. 
 Proposed methods: 
 Expected outcomes: 
 
-Proposal #2: Relationship between social vulnerability and economic status in families in the US
+Proposal #2: Relationship between economic status and social vulnerability in families in the US
 Justification: 
 Research objective:
 Proposed methods: 
