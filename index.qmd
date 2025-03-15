@@ -44,16 +44,16 @@ Justification: Aquatic invasive species, such as the Red Shiner and Common Carp,
 
 Research objective: The objective is to track the population and growth of the Common Carp species in Colorado over the past decade in order to determine the rate at which the species is increasing. 
 
-Proposed methods: 
+Proposed methods: I propose using the USGS nonindigenous fish species data online to calculate how common carp populations have changed over time. Depending on how much data is available, my project may have to pivot to focus on different or multiple species rather than solely the common carp. I also plan to use the Colorado Fishing Atlas which is accessible on the Colorado Parks and Wildlife site. This data provides details on where common carp are located and which lakes or rivers they have been spotted in. Through this site, I can find where common carp are spotted and chose a couple areas of study. My study will be more focused on temporal data as it details population change over time. I will use tests such as ANOVA to determine if there are population differences depending on site, as well as simple linear regression to quantify trends. 
 
-Expected outcomes: I expect to find that the common carp has been increasing in population over the years, or expanding the areas in which they inhabitat in Colorado.
+Expected outcomes: I expect to find that the common carp has been increasing in population over the years, or expanding the areas in which they inhabit in Colorado. This is important because it can further management plans for addressing invasive species and what actions to take.
 
-*Proposal #2:* Relationship between economic status and social vulnerability in families in the US
+*Proposal #2:* Comparison between income and social vulnerability in Colorado counties
 
-Justification: 
+Justification: Social vulnerability is a measure of how susceptible a community may be to certain stressors, including environmental hazards, poverty, and health threats [@cutter2003social]. Tracking these patterns and trends are critical to addressing systemic inequalities and finding more efficient ways to address and mitigate them. By determining the relationship between social vulnerability to income, I hope that it will create more clarity on which communities we should be focusing on and aid detection of at-risk communities in efforts to stem hazards. Social vulnerability has been connected to other factors and predictors as well, such as climate change and environmental changes; both of which show a positive correlation as climate change tends to increase alongside vulnerability [@li2023mapping]. However, even with research done on social vulnerability and climate changes, there is still a lack of comprehensive research on how this index connects to other measurements, such as demographic and economic status [@li2023mapping]. With this project, my goal is to clarify the relationship between social vulnerability and income in an effort to create a more holistic picture of who is affected by this index.
 
-Research objective:
+Research objective: My research objective is to determine if there is a correlation between average income of counties within Colorado to social vulnerability measures.
 
-Proposed methods: 
+Proposed methods: For datasets, I plan to use the Data Commons information tracking individual income in Colorado separated by county. Through this data I will have more information on economic status of counties, and can also normalize the data depending on county population if needed. Additionally, I will also use the Social Vulnerability Index Map and Colorado data in order to find the average index score by county. For statistical tests, I plan on using t-tests to compare the average mean of both social vulnerability and individual income as well as an ANOVA test to determine the correlation between the two variables. 
 
-Expected outcomes: 
+Expected outcomes: I expect to find that income and social vulnerability are positively correlated with a significant relationship. This is important because it can inform future decisions such as where aid is needed as well as helping to detect where communities may need help.
